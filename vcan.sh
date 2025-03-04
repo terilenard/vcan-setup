@@ -1,6 +1,6 @@
 #!/bin/bash
 
-cd ../service/vcan0-service
+cd service/vcan0-service
 
 sudo cp vcan0.sh /bin/vcan0.sh
 
